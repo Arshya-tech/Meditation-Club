@@ -15,3 +15,6 @@
 local.properties
 *.log
 *.iml
+gradlew
+gradlew.bat
+settings.gradle
