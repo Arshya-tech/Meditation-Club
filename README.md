@@ -3,8 +3,14 @@ This project is a demo application developed in May 2021 for a school club to ma
 
 ## Features
 
-### Main (Home) Page
+### Main Activity Page
 A welcoming hub providing quick navigation to other app features.
+
+### Home Page
+Displays the daily updates and notices for users.
+
+### Achievements Page
+Showcases the latest awards won by the members. 
 
 ### Login/Signup Functionality 
 Secure account creation and authentication for members.
